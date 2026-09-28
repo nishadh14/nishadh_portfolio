@@ -1,5 +1,7 @@
 # Nishadh Nikam — Portfolio
 
+**Live:** https://nishadh-portfolio.onrender.com/
+
 Professional animated portfolio built with React, Vite, TypeScript, Tailwind CSS, and Framer Motion.
 
 ## Run locally
